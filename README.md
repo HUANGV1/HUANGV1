@@ -1,4 +1,4 @@
-👋 Hey, I’m Jasdeep Singh
+👋 Hey, I’m Viho
 
 I’m an engineering student interested in AI, automation, and aerospace systems. I love building projects that turn complex ideas into practical tools — whether that’s predictive models, data-driven dashboards, or prototypes that actually move.
 
