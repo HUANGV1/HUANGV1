@@ -1,21 +1,19 @@
-👋 Hey, I’m Viho
+hey, I’m Viho
 
-I’m an engineering student interested in AI, automation, and aerospace systems. I love building projects that turn complex ideas into practical tools — whether that’s predictive models, data-driven dashboards, or prototypes that actually move.
+engineering student into AI, automation, and aerospace systems.
 
-🚀 What I’m Working On
+i like building things that actually do something -> from small AI tools to systems that move and think.
 
-Exploring how AI can make aerospace systems smarter and safer
+currently:
 
-Building personal tools to automate everyday problems
+interning at Purolator (building internal tools + backend features)
+exploring RAG, MCP, and agent-based AI systems through side projects
+doing coffee chats + networking with engineers and interns
 
-Contributing to open-source projects focused on data and optimization
+learning
 
-🧠 What I’m Learning
+RAG pipelines + vector databases
+MCP + agentic AI workflows
+Backend/API design for scalable systems
 
-Machine learning frameworks (PyTorch, TensorFlow)
-
-Embedded systems & control
-
-Scalable backend design
-
-📫 Let’s Connect!
+always open to connect!
